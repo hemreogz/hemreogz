@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Merhaba, Ben Emre Oğuz!
 
-<!--
-**hemreogz/hemreogz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Yönetim Bilişim Sistemleri Öğrencisi | Bandırma Onyedi Eylül Üniversitesi
+Analitik düşünen, sorgulayıcı ve teknolojiyle stratejiyi harmanlamayı seven bir üniversite öğrencisiyim. Hem teknik geliştirme hem de topluluk yönetimi tarafında aktif rol alıyorum.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Nelerle Uğraşıyorum?
+- **📱 Swipix:** Film keşfetmeyi oyunlaştıran React Native & Firebase tabanlı projem.
+- **🛡️ Cyber AI Vision Zirvesi:** Üniversitemizde düzenlenen siber güvenlik ve yapay zeka zirvesinin organizasyon ekibindeyim.
+- **📈 BANÜYBST:** Yönetim Bilişim Sistemleri Topluluğu için stratejik sosyal medya analizleri ve topluluk yönetimi yapıyorum.
+
+---
+
+### 🛠️ Teknik Yetkinlikler & İlgi Alanları
+- **Yazılım:** React Native, Python, Nesne Tabanlı Programlama (OOP), SQL (Veri Tabanı Yönetimi).
+- **Analiz:** İstatistik, Oyun Teorisi, SWOT Analizi ve Sosyal Medya Stratejisi.
+- **Tasarım:** Grafik Tasarımı ve Kullanıcı Deneyimi (UI/UX) odaklı arayüz geliştirme.
+
+---
+
+### 🎨 Kişisel Hobiler & Tutkular
+- **📸 Fotoğrafçılık:** Fujifilm XT-3 ile özellikle doğa ve cinematiğe yakın sokak fotoğrafçılığıyla ilgileniyorum.
+- **🎸 Müzik:** Bass gitar çalıyorum; ritim ve harmoniye odaklanmayı seviyorum.
+- **🥊 Spor:** Sıkı bir UFC takipçisiyim ve Fenerbahçe taraftarıyım.
+
+---
+
+### 📫 İletişim
+- **E-posta:** [halilemreoguz@gmail.com](mailto:halilemreoguz@gmail.com)
+- **LinkedIn:** [linkedin.com/in/hemreogz](https://linkedin.com/in/hemreogz)
+
+---
+
