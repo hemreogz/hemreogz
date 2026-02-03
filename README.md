@@ -20,9 +20,8 @@ Analitik düşünen, sorgulayıcı ve teknolojiyle stratejiyi harmanlamayı seve
 ---
 
 ### 🎨 Kişisel Hobiler & Tutkular
-- **📸 Fotoğrafçılık:** Fujifilm XT-3 ile özellikle doğa ve cinematiğe yakın sokak fotoğrafçılığıyla ilgileniyorum.
-- **🎸 Müzik:** Bass gitar çalıyorum; ritim ve harmoniye odaklanmayı seviyorum.
-- **🥊 Spor:** Sıkı bir UFC takipçisiyim ve Fenerbahçe taraftarıyım.
+- **📸 Fotoğrafçılık:** Doğa ve sinematiğe yakın sokak fotoğrafçılığıyla ilgileniyorum.
+- **🎸 Müzik:** Hobi olarak Bass Gitar öğrenmeye çalışıyorum.
 
 ---
 
