@@ -7,14 +7,11 @@ Analitik düşünen, sorgulayıcı ve teknolojiyle stratejiyi harmanlamayı seve
 
 ### 🚀 Nelerle Uğraşıyorum?
 - **📱 Swipix:** Film keşfetmeyi oyunlaştıran React Native & Firebase tabanlı projem.
-- **🛡️ Cyber AI Vision Zirvesi:** Üniversitemizde düzenlenen siber güvenlik ve yapay zeka zirvesinin organizasyon ekibindeyim.
-- **📈 BANÜYBST:** Yönetim Bilişim Sistemleri Topluluğu için stratejik sosyal medya analizleri ve topluluk yönetimi yapıyorum.
+- **📈 BANÜYBST:** Yönetim Bilişim Sistemleri Topluluğu için stratejik proje koordinatörlüğü ve topluluk yönetimi yapıyorum.
 
 ---
 
 ### 🛠️ Teknik Yetkinlikler & İlgi Alanları
-- **Yazılım:** React Native, Python, Nesne Tabanlı Programlama (OOP), SQL (Veri Tabanı Yönetimi).
-- **Analiz:** İstatistik, Oyun Teorisi, SWOT Analizi ve Sosyal Medya Stratejisi.
 - **Tasarım:** Grafik Tasarımı ve Kullanıcı Deneyimi (UI/UX) odaklı arayüz geliştirme.
 
 ---
