@@ -1,30 +1,27 @@
-# 👋 Merhaba, Ben Emre Oğuz!
+# Emre Oğuz
 
-### 🎓 Yönetim Bilişim Sistemleri Öğrencisi | Bandırma Onyedi Eylül Üniversitesi
-Analitik düşünen, sorgulayıcı ve teknolojiyle stratejiyi harmanlamayı seven bir üniversite öğrencisiyim. Hem teknik geliştirme hem de topluluk yönetimi tarafında aktif rol alıyorum.
+Yönetim Bilişim Sistemleri Öğrencisi | Bandırma Onyedi Eylül Üniversitesi
 
----
+Kullanıcı deneyimi (UI/UX) ve web/mobil ürün geliştirme odaklı çalışıyorum. Tasarım süreçlerini teknik altyapıyla birleştirerek kullanılabilir ve estetik dijital ürünler ortaya çıkarmayı hedefliyorum. Aynı zamanda BANÜYBST'de Proje Geliştirme Koordinatörü olarak görev yapıyorum.
 
-### 🚀 Nelerle Uğraşıyorum?
-- **📱 Swipix:** Film keşfetmeyi oyunlaştıran React Native & Firebase tabanlı projem.
-- **📈 BANÜYBST:** Yönetim Bilişim Sistemleri Topluluğu için stratejik proje koordinatörlüğü ve topluluk yönetimi yapıyorum.
+### Projeler ve Çalışmalar
 
----
+*   **Swipix:** Film keşfetme deneyimini oyunlaştıran mobil uygulama (React Native, Firebase).
+*   **Kavramsal Arayüz Tasarımları:** Sahibinden ve Letterboxd için kullanıcı deneyimini iyileştirmeye yönelik modern yeniden tasarım (redesign) projeleri (Figma).
+*   **İş Süreçleri Analiz Portalı:** EXXEN platformu için SWOT ve BPMN analizlerini barındıran etkileşimli web uygulaması (Next.js, Tailwind CSS, Vercel).
 
-### 🛠️ Teknik Yetkinlikler & İlgi Alanları
-- **Tasarım:** Grafik Tasarımı ve Kullanıcı Deneyimi (UI/UX) odaklı arayüz geliştirme.
+### Teknolojiler ve Araçlar
 
----
+<p align="left">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer" />
+</p>
 
-### 🎨 Kişisel Hobiler & Tutkular
-- **📸 Fotoğrafçılık:** Doğa ve sinematiğe yakın sokak fotoğrafçılığıyla ilgileniyorum.
-- **🎸 Müzik:** Hobi olarak Bass Gitar öğrenmeye çalışıyorum.
+### İletişim
 
----
-
-### 📫 İletişim
-- **E-posta:** [halilemreoguz@gmail.com](mailto:halilemreoguz@gmail.com)
-- **LinkedIn:** [linkedin.com/in/hemreogz](https://linkedin.com/in/hemreogz)
-
----
-
+[LinkedIn](https://linkedin.com/in/hemreogz) | [E-posta](mailto:halilemreoguz@gmail.com)
