@@ -1,6 +1,6 @@
 # UI/UX Designer
 
-Kullanıcı deneyimi (UI/UX) ve web/mobil ürün geliştirme odaklı çalışıyorum. Tasarım süreçlerini teknik altyapıyla birleştirerek kullanılabilir ve estetik dijital ürünler ortaya çıkarmayı hedefliyorum. Aynı zamanda BANÜYBST'de Proje Geliştirme Koordinatörü olarak görev yapıyorum.
+Kullanıcı deneyimi (UI/UX) ve web/mobil ürün geliştirme odaklı çalışıyorum. Tasarım süreçlerini teknik altyapıyla birleştirerek kullanılabilir ve estetik dijital ürünler ortaya çıkarmayı hedefliyorum.
 
 ### Projeler ve Çalışmalar
 
